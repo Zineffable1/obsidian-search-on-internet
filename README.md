@@ -1,4 +1,4 @@
-
+![Image](https://github.com/user-attachments/assets/aca2a02e-e3e1-400e-896e-e99a6d780373)
 <p align="left">
     <a href="https://github.com/HEmile/obsidian-search-on-internet/releases">
         <img src="https://img.shields.io/github/downloads/HEmile/obsidian-search-on-internet/total.svg"
@@ -58,3 +58,4 @@ You can also disable the iframe search and open the search in your browser.
 Settings code is mainly taken from the [Templater plugin](https://github.com/SilentVoid13/Templater) by [SilentVoid13](https://github.com/SilentVoid13)
 
 Modal code is inspired by the [Citation plugin](https://github.com/hans/obsidian-citation-plugin/blob/master/src/modals.ts)
+
